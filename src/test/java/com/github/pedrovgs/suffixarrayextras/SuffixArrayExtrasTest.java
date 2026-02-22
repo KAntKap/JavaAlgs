@@ -41,5 +41,4 @@ public class SuffixArrayExtrasTest {
     assertEquals(0, SuffixArrayExtras.countDistinctSubstrings(""));
   }
 
-  
 }
